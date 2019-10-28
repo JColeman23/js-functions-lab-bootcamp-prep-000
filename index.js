@@ -15,4 +15,4 @@ function holidayCountdown(days, holiday){
   return 'It\'s ${days} days until ${holiday}'
 }
 
-console.log(happyHolidayTo(christmas, jonah))
+console.log(happyHolidaysTo(jonah))
